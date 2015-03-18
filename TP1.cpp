@@ -12,6 +12,7 @@ using namespace std;
 
 //ESTRUCTURA ESTUDIANTE--------------------------------------
 
+// comentario de gaspar
 typedef struct{
 	
 	char nombre[20];
